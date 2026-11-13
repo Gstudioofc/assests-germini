@@ -1,1 +1,1 @@
-# assests-germini
+# assests-gpt
